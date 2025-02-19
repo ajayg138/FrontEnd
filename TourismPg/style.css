@@ -1,0 +1,27 @@
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+  }
+  .tourism-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 5px;
+  }
+  .button {
+    color: white;
+    background-color: #25b1cc;
+    width: 138px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 20px;
+  }
+  .main-heading {
+    font-family: "Roboto";
+  }
+  .paragraph {
+    font-family: "Roboto";
+  }
