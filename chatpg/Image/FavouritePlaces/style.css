@@ -1,0 +1,41 @@
+.headContainer{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 115vh;
+    width: 60vh;
+    background-size: cover;
+}
+
+
+.card{
+    background-color: blanchedalmond;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 14px;
+}
+
+.heading{
+    color: black;
+    font-weight: bold;
+    padding: 24px;
+    font-weight: bold;
+}
+
+.subHeading{
+    color: black;
+    font-family: "Roboto";
+    font-size: 23px;
+    text-decoration:dashed;
+
+}
+
+.para{
+    color: darkcyan;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    padding: 15px;
+}
+
+.image{
+    height: 100px;
+    width: 80px;
+}
